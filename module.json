@@ -1,0 +1,187 @@
+{
+  "id": "p6ebase",
+  "title": "Pendragon Base Content",
+  "version": "1.9",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.351"
+  },
+  "description": "<p>Basic content for the 6th Edition on Pendragon</p>",
+  "authors": [
+    {
+      "name": "Dangermouse",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "Pendragon",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "base-skills",
+      "label": "Base Skills",
+      "path": "packs/base-skills",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-passions",
+      "label": "Base Passions",
+      "path": "packs/base-passions",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-traits",
+      "label": "Base Traits",
+      "path": "packs/base-traits",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-equipment",
+      "label": "Base Equipment",
+      "path": "packs/base-equipment",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-horses",
+      "label": "Base Horses",
+      "path": "packs/base-horses",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-armour",
+      "label": "Base Armor",
+      "path": "packs/base-armour",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-weapons",
+      "label": "Base Weapons",
+      "path": "packs/base-weapons",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-cultures",
+      "label": "Base Cultures",
+      "path": "packs/base-cultures",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-religions",
+      "label": "Base Religions",
+      "path": "packs/base-religions",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-classes",
+      "label": "Base Classes",
+      "path": "packs/base-classes",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-homelands",
+      "label": "Base Homelands",
+      "path": "packs/base-homelands",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-ideals",
+      "label": "Base Ideals",
+      "path": "packs/base-ideals",
+      "type": "Item",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "base-tables",
+      "label": "Base Tables",
+      "path": "packs/base-tables",
+      "type": "RollTable",
+      "system": "Pendragon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/cragstone/p6ebase",
+  "manifest": "https://github.com/cragstone/p6ebase/releases/latest/download/module.json",
+  "download": "https://github.com/cragstone/p6ebase/releases/download/1.9/p6ebase.zip",
+  "flags": {}
+}
